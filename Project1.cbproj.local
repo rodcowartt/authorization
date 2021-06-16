@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.687,D:\Новая папка\prodjects new\Project1.cbproj=D:\Новая папка\prodjects new\3333\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,=D:\Новая папка\prodjects new\3333\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,=D:\Новая папка\prodjects new\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,D:\Новая папка\prodjects new\Project1PCH1.h=D:\Новая папка\prodjects new\3333\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,=D:\Новая папка\prodjects new\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.952,=D:\Новая папка\prodjects new\3333\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.321,D:\Новая папка\prodjects new\Unit1.dfm=D:\Новая папка\prodjects new\3333\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.321,D:\Новая папка\prodjects new\Unit1.h=D:\Новая папка\prodjects new\3333\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=D:\Новая папка\prodjects new\3333\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.321,D:\Новая папка\prodjects new\Unit1.cpp=D:\Новая папка\prodjects new\3333\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,=D:\Новая папка\prodjects new\3333\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,=D:\Новая папка\prodjects new\3333\Unit4.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
